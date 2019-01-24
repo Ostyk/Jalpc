@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/s2.jpg
+- src: landing/p.jpg
   title: first banner image
 
-- src: landing/synthwave.jpg
+- src: landing/t.jpg
   title: second banner image
