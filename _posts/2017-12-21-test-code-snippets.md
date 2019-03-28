@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog entry test"
+title:  "ML-test"
 date:   2019-03-29
 desc: "First blog entry"
 keywords: "website,blog,easy"
