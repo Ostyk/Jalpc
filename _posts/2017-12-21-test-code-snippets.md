@@ -4,7 +4,7 @@ title:  "Blog entry test"
 date:   2019-03-29
 desc: "First blog entry"
 keywords: "website,blog,easy"
-categories: [Machine-Learning]
+categories: [machine-learning]
 tags: [Jekyll]
 icon: icon-html
 ---
