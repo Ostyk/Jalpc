@@ -5,11 +5,11 @@
   i18n:
   gh_user: Ostyk
   repo: BSc-thesis
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/bsc.png
   desc: Parameter space dimensionality reduction of medical images for the purpose of classification based on parameterisation using the hidden layers of an artificial neural network
 
 - name: Walk-bot
-  i18n: 
+  i18n:
   gh_user: Ostyk
   repo: walk-bot
   img: /static/assets/img/landing/walk-bot.png
