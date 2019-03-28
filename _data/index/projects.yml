@@ -2,21 +2,15 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: BSc-thesis
-  i18n: jalpc
+  i18n:
   gh_user: Ostyk
   repo: BSc-thesis
   img: /static/assets/img/landing/jekyll.png
   desc: Parameter space dimensionality reduction of medical images for the purpose of classification based on parameterisation using the hidden layers of an artificial neural network
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Walk-bot
+  i18n: 
+  gh_user: Ostyk
+  repo: walk-bot
+  img: /static/assets/img/landing/walk-bot.png
+  desc: Training the OpenAI Humanoid using the Proximal Policy Optimization Algorithm.
