@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Ostyk  # Be used at blog posts' author.
   first_name: Michal  # Be used at index page about me section.
   last_name: Ostyk-Narbutt  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/ostyk.jpg  # upload your avatar at directory and edit it.
   github_username: ostyk  # Leave blank if you don't have now
   linkedin_id: mon-ai # Leave blank if you don't have now
   facebook_username: michael.narbutt  # Leave blank if you don't have now
