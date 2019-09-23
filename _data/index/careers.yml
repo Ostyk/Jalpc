@@ -39,31 +39,31 @@
       i18n: company_c_job
     icon: fa-plus-square
 
-- name:
-    detail: Sapienza University of Rome (MSc)
-    i18n: company_d
-  desc:
-    detail: Master of Science in Artificial Intelligence and Robotics
-    i18n: company_d_desc
-  date:
-    detail: September 2018 - Present
-    i18n: company_d_date
-  job:
-    detail: AI and Robotics student
-    i18n: company_c_job
-  icon: fa-plus-square
-
-
-- name:
-    detail: Translated Srl, Rome, Italy
-    i18n: company_e
-  desc:
-    detail: Artificial Intelligence/Machine Learning Internship
-    i18n: company_e_desc
-  date:
-    detail: August 2019 - Present
-    i18n: company_e_date
-  job:
-    detail: AI Research Intern
-    i18n: company_e_job
-  icon: fa-plus-square
+# - name:
+#     detail: Sapienza University of Rome (MSc)
+#     i18n: company_d
+#   desc:
+#     detail: Master of Science in Artificial Intelligence and Robotics
+#     i18n: company_d_desc
+#   date:
+#     detail: September 2018 - Present
+#     i18n: company_d_date
+#   job:
+#     detail: AI and Robotics student
+#     i18n: company_c_job
+#   icon: fa-plus-square
+#
+#
+# - name:
+#     detail: Translated Srl, Rome, Italy
+#     i18n: company_e
+#   desc:
+#     detail: Artificial Intelligence/Machine Learning Internship
+#     i18n: company_e_desc
+#   date:
+#     detail: August 2019 - Present
+#     i18n: company_e_date
+#   job:
+#     detail: AI Research Intern
+#     i18n: company_e_job
+#   icon: fa-plus-square
