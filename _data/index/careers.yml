@@ -56,16 +56,16 @@
     i18n: company_d_job
   icon: fa-plus-square
 
-  - name:
-      detail: Translated Srl
-      i18n: company_e
-    desc:
-      detail: Natural Langauge Processing research
-      i18n: company_e_desc
-    date:
-      detail: August 2019 - Present
-      i18n: company_e_date
-    job:
-      detail: AI Research Intern
-      i18n: company_e_job
-    icon: fa-plus-square
+  # - name:
+  #     detail: Translated Srl
+  #     i18n: company_e
+  #   desc:
+  #     detail: Natural Langauge Processing research
+  #     i18n: company_e_desc
+  #   date:
+  #     detail: August 2019 - Present
+  #     i18n: company_e_date
+  #   job:
+  #     detail: AI Research Intern
+  #     i18n: company_e_job
+  #   icon: fa-plus-square
