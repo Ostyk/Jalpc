@@ -64,8 +64,8 @@
       i18n: company_e_desc
     date:
       detail: August 2019 - Present
-      i18n: company_d_date
+      i18n: company_e_date
     job:
       detail: AI Research Intern
-      i18n: company_d_job
+      i18n: company_e_job
     icon: fa-user-hard-hat
