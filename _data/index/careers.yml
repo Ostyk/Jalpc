@@ -12,7 +12,7 @@
   job:
     detail: Trainee
     i18n: company_a_job
-  icon: fa-user-hard-hat
+  icon: fa-plus-square
 
 - name:
     detail: University of Warsaw (BSc)
@@ -26,7 +26,7 @@
   job:
     detail: Neuroinformatics student
     i18n: company_b_job
-  icon: fa-university
+  icon: fa-plus-square
 
 - name:
     detail: National Information Processing Institute / Algolytics
@@ -40,7 +40,7 @@
   job:
     detail: Junior Python Developer/ Data Scientst
     i18n: company_c_job
-  icon: fa-user-hard-hat
+  icon: fa-plus-square
 
 - name:
     detail: Sapienza University of Rome (MSc)
@@ -54,7 +54,7 @@
   job:
     detail: Artificial Intelligence student
     i18n: company_d_job
-  icon: fa-university
+  icon: fa-plus-square
 
   - name:
       detail: Translated Srl
@@ -68,4 +68,4 @@
     job:
       detail: AI Research Intern
       i18n: company_e_job
-    icon: fa-user-hard-hat
+    icon: fa-plus-square
