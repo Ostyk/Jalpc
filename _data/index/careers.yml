@@ -41,3 +41,17 @@
     detail: Artificial Intelligence student
     i18n: company_c_job
   icon: fa-plus-square
+
+- name:
+    detail: Sapienza University of Rome (MSc)
+    i18n: company_d
+  desc:
+    detail: Master of Science in Artificial Intelligence and Robotics
+    i18n: company_d_desc
+  date:
+    detail: September 2018 - Present
+    i18n: company_d_date
+  job:
+    detail: Artificial Intelligence student
+    i18n: company_d_job
+  icon: fa-plus-square
