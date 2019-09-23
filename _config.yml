@@ -30,8 +30,8 @@ author:  # change following line to your infomation.
     - name: icon-osx
   desc: Just another student going about his day, trying to understand AI better, to better the world.
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: jalpc
 
 # analytics
 ## google analytics
