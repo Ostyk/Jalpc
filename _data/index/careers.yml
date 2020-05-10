@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Hewlett Packard Enterprise
+    detail: Hewlett Packard Enterprise - Warsaw, Poland
     i18n: company_a
   desc:
     detail: IT security department
@@ -29,7 +29,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: National Information Processing Institute -- Algolytics
+    detail: National Information Processing Institute / Algolytics - Warsaw, Poland
     i18n: company_c
   desc:
     detail: Pupil tracking -- credit risk analysis
@@ -49,18 +49,47 @@
     detail: Master of Science in Artificial Intelligence and Robotics
     i18n: company_d_desc
   date:
-    detail: September 2018 - Present
+    detail: September 2018 - October 2020 (planned)
     i18n: company_d_date
   job:
     detail: Artificial Intelligence student
     i18n: company_d_job
   icon: fa-plus-square
 
+- name:
+    detail: Translated Srl - Rome, Italy
+    i18n: company_e
+  desc:
+    detail: NLP Research
+    i18n: company_e_desc
+  date:
+    detail: August 2019 - February 2020 
+    i18n: company_e_date
+  job:
+    detail: AI Research Intern 
+    i18n: company_e_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Agricola Moderna - Milan, Italy
+    i18n: company_f
+  desc:
+    detail: Master Thesis Project in Computer Vision. Leaf Segmentation for plant phenotyping in vertical farming.
+    i18n: company_f_desc
+  date:
+    detail: February 2020 - Present
+    i18n: company_f_date
+  job:
+    detail: Deep Learning Engineer
+    i18n: company_f_job
+  icon: fa-plus-square
+
   # - name:
   #     detail: Translated Srl
   #     i18n: company_e
   #   desc:
-  #     detail: Natural Langauge Processing research
+  #     detail: AI research
   #     i18n: company_e_desc
   #   date:
   #     detail: August 2019 - Present
@@ -68,4 +97,18 @@
   #   job:
   #     detail: AI Research Intern
   #     i18n: company_e_job
+  #   icon: fa-plus-square
+
+  # - name:
+  #     detail: Translated Srl
+  #     i18n: company_f
+  #   desc:
+  #     detail: AI research
+  #     i18n: company_efdesc
+  #   date:
+  #     detail: August 2019 - Present
+  #     i18n: company_f_date
+  #   job:
+  #     detail: AI Research Intern
+  #     i18n: company_f_job
   #   icon: fa-plus-square

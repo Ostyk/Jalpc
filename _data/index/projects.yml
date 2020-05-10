@@ -1,12 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: BSc-thesis
+- name: Attribute-Controlled GAN
   i18n:
   gh_user: Ostyk
-  repo: BSc-thesis
-  img: /static/assets/img/landing/bsc.png
-  desc: Parameter space dimensionality reduction of medical images for the purpose of classification based on parameterisation using the hidden layers of an artificial neural network
+  repo: self-driving-AttGAN
+  img: /static/assets/img/landing/self.png
+  desc: Tensorflow implementation of Attribute-Controlled Traffic Data Augmentation Using Conditional Generative Models
+
 
 - name: Walk-bot
   i18n:
@@ -14,3 +15,4 @@
   repo: walk-bot
   img: /static/assets/img/landing/walk-bot.png
   desc: Training the OpenAI Humanoid using the Proximal Policy Optimization Algorithm.
+
